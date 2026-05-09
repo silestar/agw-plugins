@@ -1,0 +1,14 @@
+{
+  "name": "demo-plugin",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "min_agw_version": "0.1.0",
+      "changelog": "初始演示版本，用于验证插件安装流程",
+      "download_url": "https://github.com/bokelife/agw-plugins/releases/download/demo-v1.0.0/demo-plugin.zip",
+      "sha256": "",
+      "file_size": 0,
+      "published_at": "2026-05-09T12:00:00Z"
+    }
+  ]
+}
