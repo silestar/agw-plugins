@@ -1,0 +1,17 @@
+{
+  "name": "AGW 官方插件仓库",
+  "description": "由 AGW 社区维护的官方插件集合",
+  "updated_at": "2026-05-09T12:00:00Z",
+  "plugins": [
+    {
+      "name": "demo-plugin",
+      "display_name": "Demo Plugin（演示插件）",
+      "description": "一个演示插件，用于验证 AGW 插件系统的安装和使用流程，不包含实际功能",
+      "author": "AGW Team",
+      "category": "general",
+      "icon_url": "https://raw.githubusercontent.com/bokelife/agw-plugins/main/demo-plugin/icon.png",
+      "detail_url": "https://raw.githubusercontent.com/bokelife/agw-plugins/main/demo-plugin/README.md",
+      "versions_url": "https://raw.githubusercontent.com/bokelife/agw-plugins/main/demo-plugin/versions.json"
+    }
+  ]
+}
